@@ -1,0 +1,1 @@
+# cpp solution of hihoCoder
